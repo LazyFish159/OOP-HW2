@@ -19,7 +19,6 @@ public class StringComparator {
 		else{
 			System.out.println("The two strings are not the same.");
 			
-			
 		}
 			
 	}
