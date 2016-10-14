@@ -8,7 +8,6 @@ public class Break {
 		System.out.println(i);
 		if(i==2)
             break;
-	}
-		
+	}	
 	}
 }
